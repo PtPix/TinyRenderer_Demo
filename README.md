@@ -27,7 +27,7 @@ make
 ```
 运行
 ```Bash
-./LuminaRenderer
+./SoftwareRasterizeRenderer
 ```
 渲染结果将保存为 framebuffer.tga。
 
